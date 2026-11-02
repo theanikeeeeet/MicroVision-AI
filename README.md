@@ -1,4 +1,4 @@
-# VibeViz
+# Microvision AI
 
 > **Real-Time Computer Vision, Emotion Tracking & Sign Language Analytics**
 
