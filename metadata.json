@@ -1,0 +1,8 @@
+{
+  "name": "VibeViz",
+  "description": "Real-time facial analysis and emotion tracking using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
